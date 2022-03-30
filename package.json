@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "arweave": "1.10.16",
+    "redstone-smartweave": "0.4.28",
+    "testweave-sdk": "^0.2.2"
+  },
+  "devDependencies": {
+    "arlocal": "1.1.19",
+    "jest": "^27.5.1"
+  }
+}
